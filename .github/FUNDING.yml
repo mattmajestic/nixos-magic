@@ -1,3 +1,2 @@
 github: mattmajestic
-custom:
-  - "https://twitch.tv/majesticcodingtwitch"
+custom: ["https://twitch.tv/majesticcodingtwitch", twitch.tv]
